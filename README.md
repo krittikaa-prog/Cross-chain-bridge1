@@ -156,3 +156,6 @@ npx hardhat run scripts/deploy.js --network <network-name>
 ---
 
 **⚠️ Security Notice**: This contract is for educational and development purposes. Ensure thorough testing and security audits before mainnet deployment.
+
+## Contract Details:0xb9B30a0b5571D5e2A4f3F7C60f411c88ED326054
+<img width="1919" height="1079" alt="Screenshot 2025-07-29 143731" src="https://github.com/user-attachments/assets/2dcd38c1-1a88-4880-88d1-1b07af2ba9b4" />
